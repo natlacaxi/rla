@@ -1,7 +1,7 @@
 {
   "name": "Plan du réseau Lignes d'Azur",
   "short_name": "Plan Azur",
-  "description": "Plan interactif du réseau Lignes d'Azur : lignes, arrêts, horaires et itinéraires.",
+  "description": "Plan interactif du réseau Lignes d'Azur : lignes, arrêts, horaires, temps réel et itinéraires.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -10,8 +10,8 @@
   "theme_color": "#f39801",
   "lang": "fr",
   "icons": [
-    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
-    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
-    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
   ]
 }
